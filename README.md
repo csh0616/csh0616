@@ -1,5 +1,4 @@
-
-  ![Header](https://leviarista.github.io/github-profile-header-generator/github-header-image.png)
+<img src ="/Users/seunghyunchoi/Desktop/github-header-image.png"
 
 <!--
 **csh0616/csh0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
