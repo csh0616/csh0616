@@ -1,6 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/e98fcf7f-cf18-4ae8-9d62-9a56eec276c5)
 
-<h2>안녕하세요</h2>
+<h2>About me</h2>
+<p>가톨릭대학교 컴퓨터정보공학부 재학 ( 20.02 ~ )</p>
 <!--
 **csh0616/csh0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
