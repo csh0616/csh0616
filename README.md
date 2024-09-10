@@ -2,6 +2,7 @@
 
 <h2>About me🍀</h2>
 <p>가톨릭대학교 컴퓨터정보공학부 재학 ( 2020.02 ~ )</p>
+<p>멋쟁이사자처럼 12기 (2024.03 ~ )</p>
 <!--
 **csh0616/csh0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
