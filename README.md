@@ -41,12 +41,3 @@
 
 <br />
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csh0616&show_icons=true&theme=radical" alt="SeungHyun's GitHub Stats" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csh0616&layout=compact&theme=radical" alt="Top Languages" />
-</div>
